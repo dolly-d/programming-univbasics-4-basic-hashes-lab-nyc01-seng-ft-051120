@@ -6,6 +6,7 @@ def my_hash
   my_hash = {
     name:'Dolly',
     school: 'Flatiron'
+  }
 end
 
 def pioneer
